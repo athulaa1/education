@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('http://gniotgroup.edu.in/blog/wp-content/uploads/2021/04/online.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.about-text {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .about-text h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  .about-text p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  .contact-section {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    margin-top: 50px;
+}
+
+/* Features Section */
+.features .row > div {
+    margin-bottom: 30px;
+}
+
+/* Courses Section */
+.courses .card {
+    margin-bottom: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: white;
+}
+
+footer a {
+    color: #ddd;
+    text-decoration: none;
+    margin: 0 10px;
+}
+footer a:hover {
+    text-decoration: underline;
+}
